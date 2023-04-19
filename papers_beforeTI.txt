@@ -1,0 +1,121 @@
+2023
+
+Xiushang Xu, Kewei Sun, <u>Atsushi Ishikawa</u>, Akimitsu Narita,and Shigeki Kawai, "Magnetism in Nonplanar Zigzag Edge Termini of GrapheneNanoribbons", Angewandte Chemie International Edition, e202302534 (2023)
+
+Hiromasa Sato, <u>Atsushi Ishikawa</u></u>, Hikaru Saito, Taisuke Higashi, Kotaro Takeyasu, & Toshiki Sugimoto, "Critical Impacts of Interfacial Water on C–H Activation in Photocatalytic Methane Conversion", Communications Chemistry, 6(1) (2023)
+
+2022
+
+Koki Obinata, Tomofumi Nakayama, <u>Atsushi Ishikawa</u></u>, Keitaro Sodeyama, Kenji Nagata, Yasuhiko Igarashi, & Masato Okada, "Data Integration for Multiple Alkali Metals in Predicting Coordination Energies Based on Bayesian Inference", Science and Technology of Advanced Materials: Methods, 2(1), 355–364 (2022)
+
+<u>Atsushi Ishikawa</u></u>, Fumiya Murase, Yoshitaka Tateyama, & Junichiro Otomo, "Favorable Role of the Metal-Support Perimeter Region in Electrochemical NH<sub>3</sub> Synthesis: A Density Functional Theory Study on Ru/BaCeO3", ACS Omega, 7(30), 26107–26115 (2022)
+
+<u>Atsushi Ishikawa</u></u>, "Heterogeneous Catalyst Design by Generative Adversarial Network and First-principles Based Microkinetics", Scientific Reports, 12(1) (2022)
+
+Shigeki Kawai, <u>Atsushi Ishikawa</u></u>, Shin-ichiro Ishida, Takuya Yamakado, Yujing Ma, Kewei Sun, Yoshitaka Tateyama, Rémy Pawlak, Ernst Meyer, Shohei Saito, & Atsuhiro Osuka. "On-Surface Synthesis of Porphyrin-Complex Multi-Block Co-Oligomers by Defluorinative Coupling", Angewandte Chemie International Edition, 61, e202114697 (2022)
+
+2021
+
+Yuuki Sugawara, Keigo Kamata, <u>Atsushi Ishikawa</u></u>, Yoshitaka Tateyama, & Takeo Yamaguchi, "Efficient Oxygen Evolution Electrocatalysis on CaFe2O4 and Its Reaction Mechanism", ACS Applied Energy Materials, 4(4), 3057–3066 (2021)
+
+<u>Atsushi Ishikawa</u></u>, & Yoshitaka Tateyama, "Hybrid Functional Study of H-Abstraction from Methane by Li-Doped, Pristine and Stepped MgO(100) and MgO(110) Surfaces", Catalysis Letters, 151(3), 627–633 (2021)
+
+<u>Atsushi Ishikawa</u></u>, & Yoshitaka Tateyama, "A First-Principles Microkinetics for Homogeneous-Heterogeneous Reactions: Application to Oxidative Coupling of Methane Catalyzed by Magnesium Oxide", ACS Catalysis, 11(5), 2691–2700 (2021)
+
+Takanori Koitaya, <u>Atsushi Ishikawa</u>, Shinya Yoshimoto, & Jun Yoshinobu, "C-H Bond Activation of Methane through Electronic Interaction with Pd(110)", The Journal of Physical Chemistry C, 125(2), 1368–1377 (2021)
+
+Kota Murakami, Yuta Mizutani, Hiroshi Sampei, <u>Atsushi Ishikawa</u>, Yuta Tanaka, Sasuga Hayashi, Sae Doi, Takuma Higo, Hideaki Tsuneki, Hiromi Nakai, & Yasushi Sekine, "Theoretical Prediction by DFT and Experimental Observation of Heterocation-doping Effects on Hydrogen Adsorption and Migration over the CeO2(111) Surface", Physical Chemistry Chemical Physics 23, 4509-4516 (2021)
+
+2020
+
+Satoshi Haku, <u>Atsushi Ishikawa</u>, Akira Musha, Hiroyasu Nakayama, Takashi Yamamoto, & Kazuya Ando, "Surface Rashba-Edelstein Spin-Orbit Torque Revealed by Molecular Self-Assembly", Physical Review Applied, 13(4) (2020)
+
+Ryuya Sakai, Kota Murakami, Yuta Mizutani, Yuta Tanaka, Sasuga Hayashi, <u>Atsushi Ishikawa</u>, Takuma Higo, Shuhei Ogo, Hideaki Tsuneki, Hiromi Nakai, & Yasushi Sekine, "Agglomeration Suppression of a Fe-Supported Catalyst and its Utilization for Low-Temperature Ammonia Synthesis in an Electric Field", ACS Omega, 5(12), 6846–6851 (2020)
+
+<u>Atsushi Ishikawa</u>, & Yoshitaka Tateyama, "What Is the Active Site for the Oxidative Coupling of Methane Catalyzed by MgO? A Metadynamics-Biased Ab Initio Molecular Dynamics Study", The Journal of Physical Chemistry C, 124(11), 6054–6062 (2020)
+
+Kota Murakami, Shuhei Ogo, <u>Atsushi Ishikawa</u>, Yuna Takeno, Takuma Higo, Hideaki Tsuneki, Hiromi Nakai, & Yasushi Sekine, Heteroatom Doping Effects on Interaction of H2O and CeO2 (111) Surfaces Studied using Density Functional Theory: Key Roles of Ionic Radius and Dispersion", The Journal of Chemical Physics, 152(1), 014707 (2020)
+
+2019
+
+Kota Murakami, Yuta Tanaka, Sasuga Hayashi, Ryuya Sakai, Yudai Hisai, Yuta Mizutani, <u>Atsushi Ishikawa</u>, Takuma Higo, Shuhei Ogo, Jeong Gil Seo, Hideaki Tsuneki, Hiromi Nakai, & Yasushi Sekine, "Governing Factors of Supports of Ammonia Synthesis in an Electric Field Found using Density Functional Theory", The Journal of Chemical Physics, 151(6), 064708 (2019)
+
+Takahiro Hirai, Masaki Okoshi, <u>Atsushi Ishikawa</u>, & Hiromi Nakai, "Temperature- and pressure-dependent Adsorption Configuration of NO Molecules on Rh(111) Surface: A Theoretical Study. Surface Science", 686, 58–62 (2019)
+
+<u>Atsushi Ishikawa</u>, & Yoshitaka Tateyama, "Reaction energy Benchmarks of Hydrocarbon Combustion by Gaussian Basis and Plane Wave Basis Approaches", Journal of Computational Chemistry, 40(20), 1866–1873 (2019)
+
+<u>Atsushi Ishikawa</u>, Keitaro Sodeyama, Yasuhiko Igarashi, Tomofumi Nakayama, Yoshitaka Tateyama, & Masato Okada, "Machine Learning Prediction of Coordination Energies for Alkali Group Elements in Battery Electrolyte Solvents", Physical Chemistry Chemical Physics, 21(48), 26399–26405 (2019)
+
+Takahiro Hirai, & <u>Atsushi Ishikawa</u>, "Theoretical Analysis on Temperature- and Pressure-Dependences of NO-CO-O2 Reaction on Rh(111) Surface", Journal of Computer Chemistry, Japan, 18(1), 70–77 (2019)
+
+2018
+
+Kota Murakami, Yuta Tanaka, Ryuya Sakai, Kenta Toko, Kazuharu Ito, <u>Atsushi Ishikawa</u>, Takuma Higo, Tomohiro Yabe, Shuhei Ogo, Masatoshi Ikeda, Hideaki Tsuneki, Hiromi Nakai, & Yasushi Sekine, "The Important Role of N2H Formation Energy for Low-temperature Ammonia Synthesis in an Electric Field", Catalysis Today (2018)
+
+<u>Atsushi Ishikawa</u>, & Yoshitaka Tateyama, "First-Principles Microkinetic Analysis of NO + CO Reactions on Rh(111) Surface toward Understanding NOx Reduction Pathways", The Journal of Physical Chemistry C, 122(30), 17378–17388 (2018)
+
+<u>Atsushi Ishikawa</u>, Toshiki Doi, & Hiromi Nakai, "Catalytic Performance of Ru, Os, and Rh Nanoparticles for Ammonia Synthesis: A Density Functional Theory Analysis", Journal of Catalysis, 357, 213–222 (2018)
+
+Shuhei Ogo, Hideaki Nakatsubo, Kousei Iwasaki, Ayaka Sato, Kota Murakami, Tomohiro Yabe, <u>Atsushi Ishikawa</u>, Hiromi Nakai, & Yasushi Sekine, "Electron-Hopping Brings Lattice Strain and High Catalytic Activity in the Low-Temperature Oxidative Coupling of Methane in an Electric Field", The Journal of Physical Chemistry C, 122(4), 2089–2096 (2018)
+
+2017
+
+Fumiko Deushi, <u>Atsushi Ishikawa</u>, & Hiromi Nakai, "Density Functional Theory Analysis of Elementary Reactions in NOx Reduction on Rh Surfaces and Rh Clusters", The Journal of Physical Chemistry C, 121(28), 15272–15281 (2017)
+
+Kei Teranishi, <u>Atsushi Ishikawa</u>, Hiroshi Sato, & Hiromi Nakai, "Systematic Investigation of the Thermodynamic Properties of Amine Solvents for CO2 Chemical Absorption Using the Cluster-Continuum Model", Bulletin of the Chemical Society of Japan, 90(4), 451–460 (2017)
+
+"Ryo Manabe, Hideaki Nakatsubo, Ami Gondo, Kota Murakami, Shuhei Ogo, Hideaki Tsuneki, Masatoshi Ikeda, <u>Atsushi Ishikawa</u>, Hiromi Nakai, & Yasushi Sekine, "Electrocatalytic Synthesis of Ammonia by Surface Proton Hopping", Chemical Science, 8(8), 5434–5439 (2017)
+
+2016
+
+<u>Atsushi Ishikawa</u>, Masahiro Kamata, & Hiromi Nakai, "Quantum Chemical Approach for Condensed-phase Thermochemistry (IV): Solubility of Gaseous Molecules", Chemical Physics Letters, 655-656, 103–109 (2016)
+
+<u>Atsushi Ishikawa</u>, & Hiromi Nakai, "Quantum Chemical Approach for Condensed-phase Thermochemistry (III): Accurate Evaluation of Proton Hydration Energy and Standard Hydrogen Electrode Potential", Chemical Physics Letters, 650, 159–164 (2016)
+
+Kei Teranishi, <u>Atsushi Ishikawa</u>, & Hiromi Nakai, "Computational Chemistry Studies on CO2 Chemical Absorption Technique: Challenge on Energy and Environmental Issue", Journal of Computer Chemistry, Japan, 15(2), A15–A29 (2016)
+
+2015
+
+Masaki Okoshi, <u>Atsushi Ishikawa</u>, Yoshiumi Kawamura, & Hiromi Nakai, "Theoretical Analysis of the Oxidation Potentials of Organic Electrolyte Solvents", ECS Electrochemistry Letters, 4(9), A103–A105 (2015)
+
+<u>Atsushi Ishikawa</u>, & Hiromi Nakai, "Quantum Chemical Approach for Condensed-phase Thermochemistry (II): Applications to Formation and Combustion Reactions of Liquid Organic Molecules", Chemical Physics Letters, 624, 6–11 (2015)
+
+2014
+
+Hiromi Nakai, & <u>Atsushi Ishikawa</u>, "Quantum Chemical Approach for Condensed-phase Thermochemistry: Proposal of a Harmonic Solvation Model", The Journal of Chemical Physics, 141(17), 174106 (2014)
+
+Yuta Takada, Masaki Okoshi, Minoru Hoshino, <u>Atsushi Ishikawa</u>, Makoto Ishikawa</u>, & Hiromi Nakai, "Theoretical Study on Excess-Electron Transfer in DNA Based on the Marcus Theory", Journal of Computer Chemistry, Japan, 13(4), 242–249 (2014)
+
+2013
+
+<u>Atsushi Ishikawa</u>, & Hiroshi Nakatsuji, "XPS of Oxygen Atoms on Ag(111) and Ag(110) Surfaces: Accurate Study with SAC/SAC-CI Combined with Dipped Adcluster Model", Journal of Computational Chemistry, 34(21), 1828–1834 (2013)
+
+2012
+
+Hiroyuki Nakashima, <u>Atsushi Ishikawa</u>, Yusaku I. Kurokawa, & Hiroshi Nakatsuji, "Abstract: Solving the Schrödinger and Dirac Equations of Atoms and Molecules with Massively Parallel Computer", In 2012 SC Companion: High Performance Computing, Networking Storage and Analysis. IEEE (2012)
+
+<u>Atsushi Ishikawa</u>, Yudai Tanimura, Yoshihide Nakao, Hirofumi Sato, & Shigeyoshi Sakaki, "Complicated Electronic Process of C-C σ-Bond Activation of Cyclopropene by Ruthenium and Iridium Complexes: Theoretical Study", Organometallics, 31(23), 8189–8199 (2012)
+
+<u>Atsushi Ishikawa</u>, Hiroyuki Nakashima, & Hiroshi Nakatsuji, "Accurate Solutions of the Schrödinger and Dirac Equations of , HD+, and HT+: With and without Born-Oppenheimer Approximation and under Magnetic Field", Chemical Physics, 401, 62–72 (2012)
+
+2011
+
+<u>Atsushi Ishikawa</u>, & Shigeyoshi Sakaki, "Theoretical Study of Photoinduced Epoxidation of Olefins Catalyzed by Ruthenium Porphyrin", The Journal of Physical Chemistry A, 115(18), 4774–4785 (2011)
+
+2010
+
+<u>Atsushi Ishikawa</u>, Yoshihide Nakao, Hirofumi Sato, & Shigeyoshi Sakaki, "Pd(ii)-Promoted Direct Cross-coupling Reaction of Arenes via Highly Regioselective Aromatic C-H Activation: A Theoretical Study", Dalton Transactions, 39(13), 3279 (2010)
+
+2009
+
+<u>Atsushi Ishikawa</u>, Yoshihide Nakao, Hirofumi Sato, & Shigeyoshi Sakaki, "Oxygen Atom Transfer Reactions of Iridium and Osmium Complexes: Theoretical Study of Characteristic Features and Significantly Large Differences Between These Two Complexes", Inorganic Chemistry, 48(17), 8154–8163 (2009)
+
+2008
+
+<u>Atsushi Ishikawa</u>, Hiroyuki Nakashima, & Hiroshi Nakatsuji, "Solving the Schrödinger and Dirac Equations of Hydrogen Molecular Ion Accurately by the Free Iterative Complement Interaction Method", The Journal of Chemical Physics, 128(12), 124103 (2008)
+
+2007
+
+Lingyun Pan, <u>Atsushi Ishikawa</u>, & Naoto Tamai, "Detection of Optical Trapping of CdTe Quantum Dots by Two-photon-induced Luminescence", Physical Review B, 75(16) (2007)
+
+Hiroshi Nakatsuji, Hiroyuki Nakashima, Yusaku Kurokawa, & <u>Atsushi Ishikawa</u>, "Solving the Schrödinger Equation of Atoms and Molecules without Analytical Integration Based on the Free Iterative-Complement-Interaction Wave Function", Physical Review Letters, 99(24) (2007)
