@@ -1,8 +1,7 @@
 2023
 Yasufumi Sakai, Dang Thang, Shigeki Fukuta, Koichi Shirahata, <u>Atsushi Ishikawa</u>, Hiroshi Kawaguchi, Atsuki Inoue, Árni Björn Höskuldsson & Egill Skúlason, "Self-Supervised Learning with Atom Replacement for Catalyst Energy Prediction by Graph Neural Networks", IJCNN 2023, accepted
 
-Yosuke Oyama, Takumi Honda, <u>Atsushi Ishikawa</u> & Koichi Shirahata,
-"Accelerating Hybrid DFT Simulations Using Performance Modeling on Supercomputers", CCGRID 2023, accepted
+Yosuke Oyama, Takumi Honda, <u>Atsushi Ishikawa</u> & Koichi Shirahata, "Accelerating Hybrid DFT Simulations Using Performance Modeling on Supercomputers", CCGRID 2023, accepted
 
 Xiushang Xu, Kewei Sun, <u>Atsushi Ishikawa</u>, Akimitsu Narita & Shigeki Kawai, "Magnetism in Nonplanar Zigzag Edge Termini of GrapheneNanoribbons", Angewandte Chemie International Edition, e202302534 (2023)
 
