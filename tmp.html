@@ -19,20 +19,22 @@
       integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
       crossorigin="anonymous">
     </script>
-    <script type="text/javascript">
-    function SelectTab(obj){
-      var tabList = document.getElementById('nav-tabs').childNodes;
+
+  <script type="text/javascript">
+  function SelectTab(obj){
+    var tabList = document.getElementById('nav-tabs').childNodes;
      
-      for(var i=0 ;i<tabList.length; i++){
-        if(tabList[i].tagName == 'LI'){
-          tabList[i].classList.remove('active');
-          document.getElementById(tabList[i].id+"-container").style.display = 'none';
-        }
+    for(var i=0 ;i<tabList.length; i++){
+      if(tabList[i].tagName == 'LI'){
+        tabList[i].classList.remove('active');
+        document.getElementById(tabList[i].id+"-container").style.display = 'none';
       }
-      obj.classList.add('active');
-      document.getElementById(obj.id+"-container").style.display = 'inline';
     }
-    </script>
+    obj.classList.add('active');
+    document.getElementById(obj.id+"-container").style.display = 'inline';
+  }
+  </script>
+
   </head>
 
   <body id="page-top">
@@ -63,36 +65,16 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">研究業績</h2>
+          <h3 class="section-subheading text-muted">学術論文と査読付き国際学会の発表リストです。</h3>
         </div>
 
-        <ul class="nav nav-tabs" id="nav-tabs" role="tablist">
+        
+        <ul class="nav nav-pills" id="nav-tabs">
           <li role="presentation" id="tab1" onClick="SelectTab(this)" class="active">
-            <button
-              class="nav-link active"
-              style="color:darkslategray"
-              data-bs-toggle="pill"
-              data-bs-target="#pills-home"
-              type="button"
-              role="tab"
-              aria-controls="pills-home"
-              aria-selected="true"
-            >
-            査読つき論文
-            </button>
+            <a class="nav-link active" href="#">査読つき論文</a>
           </li>
           <li role="presentation" id="tab2" onClick="SelectTab(this)">
-            <button
-              class="nav-link"
-              style="color:darkslategray"
-              data-bs-toggle="pill"
-              data-bs-target="#pills-profile"
-              type="button"
-              role="tab"
-              aria-controls="pills-profile"
-              aria-selected="false"
-            >
-            国際学会プロシーディングス
-            </button>
+            <a class="nav-link active" href="#">国際学会プロシーディングス</a>
           </li>
         </ul>
 
@@ -130,6 +112,7 @@
         </div>
 
         <div id="tab2-container" style="display: none;">
+          
           <div class="card">
             <div class="card-body">
               <ul class="card-text">
@@ -161,6 +144,7 @@
             </div>
           </div>
         </div>
+        
     </section>
 
     <!-- Footer-->

@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="">
+    <meta name="author" content="">
     <title>Ishikawa Group Website</title>
     <!-- Favicon-->
     <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg"/>
@@ -14,11 +14,25 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="../css/styles.css" rel="stylesheet" />
+    <link href="../css/styles.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"
       integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
       crossorigin="anonymous">
-  </script>
+    </script>
+    <script type="text/javascript">
+    function SelectTab(obj){
+      var tabList = document.getElementById('nav-tabs').childNodes;
+     
+      for(var i=0 ;i<tabList.length; i++){
+        if(tabList[i].tagName == 'LI'){
+          tabList[i].classList.remove('active');
+          document.getElementById(tabList[i].id+"-container").style.display = 'none';
+        }
+      }
+      obj.classList.add('active');
+      document.getElementById(obj.id+"-container").style.display = 'inline';
+    }
+    </script>
   </head>
 
   <body id="page-top">
@@ -44,76 +58,110 @@
       </div>
     </nav>
 
-        <!-- Works -->
-        <section class="page-section" id="about">
-            <div class="container">
-              <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our works</h2>
-                <h3 class="section-subheading text-muted">Our research outcomes in scientific journals and peer-reviewed conferences.</h3>
-              </div>
+    <!-- Works -->
+    <section class="page-section" id="about">
+      <div class="container">
+        <div class="text-center">
+          <h2 class="section-heading text-uppercase">List of Publications</h2>
+        </div>
 
-              <div class="card">
-                  <div class="card-body">
-                    <h5 class="card-title">After Tokyo Tech.</h5>
-                      <ul class="card-text">
-                        <p>in preparation</p>
-                        <ol id="paperlist_afterTI" reversed>
-                          <script language="JavaScript">
-                            $(function() {
-                              load("../papers_afterTI.txt");
-                              function load (url){
-                                $.get(url, function(data){
-                                  data = data.replace(/^\d{1,2}(\|*)$/gm,"");
-                                  data = data.split(/[\r\n]+/);
-                                  //data = data.filter(Boolean);
-                                  //var title = new Object();
-                                  for(let i=0; i<data.length-1; i++) {
-                                    let paperlist = document.getElementById('../paperlist_afterTI');
-                                    paperlist.insertAdjacentHTML('beforeend', "<li>"+data[i]+"<br>");
-                                  }
-                                })
-                              }
-                            });
-                          </script>
-                          </ol>
-                      </ul>
-                    </p>
-                  </div>
-              </div>
+        <ul class="nav nav-tabs" id="nav-tabs" role="tablist">
+          <li role="presentation" id="tab1" onClick="SelectTab(this)" class="active">
+            <button
+              class="nav-link active"
+              style="color:darkslategray"
+              data-bs-toggle="pill"
+              data-bs-target="#pills-home"
+              type="button"
+              role="tab"
+              aria-controls="pills-home"
+              aria-selected="true"
+            >
+            Papers
+            </button>
+          </li>
+          <li role="presentation" id="tab2" onClick="SelectTab(this)">
+            <button
+              class="nav-link"
+              style="color:darkslategray"
+              data-bs-toggle="pill"
+              data-bs-target="#pills-profile"
+              type="button"
+              role="tab"
+              aria-controls="pills-profile"
+              aria-selected="false"
+            >
+            Conference Proceedings
+            </button>
+          </li>
+        </ul>
 
-              <div class="card">
-                <div class="card-body">
-                  <h5 class="card-title">Before Tokyo Tech.</h5>
-                    <ul class="card-text">
-                      <ol id="paperlist_beforeTI" reversed style="font-weight: bold;">
-                        <script language="JavaScript">
-                          $(function() {
-                            load("../papers_beforeTI.txt");
-                              function load (url){
-                                $.get(url, function(data){
-                                  data = data.replace(/^\d{1,2}(\|*)$/gm,"");
-                                  data = data.split(/[\r\n]+/);
-                                  for(let i=0; i<data.length-1; i++) {
-                                    let paperlist = document.getElementById('paperlist_beforeTI');
-                                    if (data[i].startsWith("20")) {
-                                      paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
-                                  }
-                                  else {
-                                    paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
-                                  }
-                                }
-                              })
+        <div id="tab1-container">
+          <div class="card">
+            <div class="card-body">
+              <ul class="card-text">
+                <ol id="papers" reversed style="font-weight: bold;">
+                  <script language="JavaScript">
+                    $(function() {
+                      load("../papers.txt");
+                      function load (url){
+                        $.get(url, function(data){
+                          data = data.replace(/^\d{1,2}(\|*)$/gm,"");
+                          data = data.split(/[\r\n]+/);
+                          //data = data.filter(Boolean);
+                          //var title = new Object();
+                          for(let i=0; i<data.length-1; i++) {
+                            let paperlist = document.getElementById('papers');
+                            if (data[i].startsWith("20")) {
+                              paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
                             }
-                          });
-                        </script>
-                      </ol>
-                    </ul>
-                  </p>
-                </div>
-              </div>
+                            else {
+                              paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                            }
+                          }
+                        })
+                      }
+                    });
+                  </script>
+                </ol>
+              </ul>
             </div>
           </div>
-        </section>
+        </div>
+
+        <div id="tab2-container" style="display: none;">
+          <div class="card">
+            <div class="card-body">
+              <ul class="card-text">
+                <ol id="conferences" reversed style="font-weight: bold;">
+                  <script language="JavaScript">
+                    $(function() {
+                      load("../conferences.txt");
+                      function load (url){
+                        $.get(url, function(data){
+                          data = data.replace(/^\d{1,2}(\|*)$/gm,"");
+                          data = data.split(/[\r\n]+/);
+                          //data = data.filter(Boolean);
+                          //var title = new Object();
+                          for(let i=0; i<data.length-1; i++) {
+                            let paperlist = document.getElementById('conferences');
+                            if (data[i].startsWith("20")) {
+                              paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                            }
+                            else {
+                              paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                            }
+                          }
+                        })
+                      }
+                    });
+                  </script>
+                </ol>
+              </ul>
+            </div>
+          </div>
+        </div>
+    </section>
 
         <!-- Footer-->
       <footer class="footer py-4">

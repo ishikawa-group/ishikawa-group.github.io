@@ -1,7 +1,4 @@
 2023
-Yasufumi Sakai, Dang Thang, Shigeki Fukuta, Koichi Shirahata, <u>Atsushi Ishikawa</u>, Hiroshi Kawaguchi, Atsuki Inoue, Árni Björn Höskuldsson & Egill Skúlason, "Self-Supervised Learning with Atom Replacement for Catalyst Energy Prediction by Graph Neural Networks", IJCNN 2023, accepted
-
-Yosuke Oyama, Takumi Honda, <u>Atsushi Ishikawa</u> & Koichi Shirahata, "Accelerating Hybrid DFT Simulations Using Performance Modeling on Supercomputers", CCGRID 2023, accepted
 
 Xiushang Xu, Kewei Sun, <u>Atsushi Ishikawa</u>, Akimitsu Narita & Shigeki Kawai, "Magnetism in Nonplanar Zigzag Edge Termini of GrapheneNanoribbons", Angewandte Chemie International Edition, e202302534 (2023)
 
@@ -94,8 +91,6 @@ Yuta Takada, Masaki Okoshi, Minoru Hoshino, <u>Atsushi Ishikawa</u>, Makoto Ishi
 <u>Atsushi Ishikawa</u> & Hiroshi Nakatsuji, "XPS of Oxygen Atoms on Ag(111) and Ag(110) Surfaces: Accurate Study with SAC/SAC-CI Combined with Dipped Adcluster Model", Journal of Computational Chemistry, 34(21), 1828–1834 (2013)
 
 2012
-
-Hiroyuki Nakashima, <u>Atsushi Ishikawa</u>, Yusaku I. Kurokawa & Hiroshi Nakatsuji, "Abstract: Solving the Schrödinger and Dirac Equations of Atoms and Molecules with Massively Parallel Computer", In 2012 SC Companion: High Performance Computing, Networking Storage and Analysis. IEEE (2012)
 
 <u>Atsushi Ishikawa</u>, Yudai Tanimura, Yoshihide Nakao, Hirofumi Sato & Shigeyoshi Sakaki, "Complicated Electronic Process of C-C σ-Bond Activation of Cyclopropene by Ruthenium and Iridium Complexes: Theoretical Study", Organometallics, 31(23), 8189–8199 (2012)
 

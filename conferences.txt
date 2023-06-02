@@ -1,0 +1,9 @@
+2023
+Yasufumi Sakai, Dang Thang, Shigeki Fukuta, Koichi Shirahata, <u>Atsushi Ishikawa</u>, Hiroshi Kawaguchi, Atsuki Inoue, Árni Björn Höskuldsson & Egill Skúlason, "Self-Supervised Learning with Atom Replacement for Catalyst Energy Prediction by Graph Neural Networks", IJCNN 2023, accepted
+
+Yosuke Oyama, Takumi Honda, <u>Atsushi Ishikawa</u> & Koichi Shirahata, "Accelerating Hybrid DFT Simulations Using Performance Modeling on Supercomputers", CCGRID 2023, accepted
+
+2012
+
+Hiroyuki Nakashima, <u>Atsushi Ishikawa</u>, Yusaku I. Kurokawa & Hiroshi Nakatsuji, "Abstract: Solving the Schrödinger and Dirac Equations of Atoms and Molecules with Massively Parallel Computer", In 2012 SC Companion: High Performance Computing, Networking Storage and Analysis. IEEE (2012)
+
