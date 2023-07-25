@@ -1,26 +1,28 @@
 2023
 
+Aoi Matsuda, Kazuhiko Obara, <u>Atsushi Ishikawa</u>, Meng-Hsuan Tsai, Chia-Hsin Wang, Yu-Chuan Lin, Michikazu Hara & Keigo Kamata, "Bismuth Phosphate Nanoparticle Catalyst for Direct Oxidation of Methane into Formaldehyde", Catalysis Science & Technology, accepted
+
 Xiushang Xu, Kewei Sun, <u>Atsushi Ishikawa</u>, Akimitsu Narita & Shigeki Kawai, "Magnetism in Nonplanar Zigzag Edge Termini of Graphene Nanoribbons", Angewandte Chemie International Edition, e202302534 (2023)
 
-Hiromasa Sato, <u>Atsushi Ishikawa</u></u>, Hikaru Saito, Taisuke Higashi, Kotaro Takeyasu & Toshiki Sugimoto, "Critical Impacts of Interfacial Water on C–H Activation in Photocatalytic Methane Conversion", Communications Chemistry, 6(1) (2023)
+Hiromasa Sato, <u>Atsushi Ishikawa</u>, Hikaru Saito, Taisuke Higashi, Kotaro Takeyasu & Toshiki Sugimoto, "Critical Impacts of Interfacial Water on C–H Activation in Photocatalytic Methane Conversion", Communications Chemistry, 6(1) (2023)
 
 2022
 
-Koki Obinata, Tomofumi Nakayama, <u>Atsushi Ishikawa</u></u>, Keitaro Sodeyama, Kenji Nagata, Yasuhiko Igarashi & Masato Okada, "Data Integration for Multiple Alkali Metals in Predicting Coordination Energies Based on Bayesian Inference", Science and Technology of Advanced Materials: Methods, 2(1), 355–364 (2022)
+Koki Obinata, Tomofumi Nakayama, <u>Atsushi Ishikawa</u>, Keitaro Sodeyama, Kenji Nagata, Yasuhiko Igarashi & Masato Okada, "Data Integration for Multiple Alkali Metals in Predicting Coordination Energies Based on Bayesian Inference", Science and Technology of Advanced Materials: Methods, 2(1), 355–364 (2022)
 
-<u>Atsushi Ishikawa</u></u>, Fumiya Murase, Yoshitaka Tateyama & Junichiro Otomo, "Favorable Role of the Metal-Support Perimeter Region in Electrochemical NH<sub>3</sub> Synthesis: A Density Functional Theory Study on Ru/BaCeO3", ACS Omega, 7(30), 26107–26115 (2022)
+<u>Atsushi Ishikawa</u>, Fumiya Murase, Yoshitaka Tateyama & Junichiro Otomo, "Favorable Role of the Metal-Support Perimeter Region in Electrochemical NH<sub>3</sub> Synthesis: A Density Functional Theory Study on Ru/BaCeO3", ACS Omega, 7(30), 26107–26115 (2022)
 
-<u>Atsushi Ishikawa</u></u>, "Heterogeneous Catalyst Design by Generative Adversarial Network and First-principles Based Microkinetics", Scientific Reports, 12(1) (2022)
+<u>Atsushi Ishikawa</u>, "Heterogeneous Catalyst Design by Generative Adversarial Network and First-principles Based Microkinetics", Scientific Reports, 12(1) (2022)
 
-Shigeki Kawai, <u>Atsushi Ishikawa</u></u>, Shin-ichiro Ishida, Takuya Yamakado, Yujing Ma, Kewei Sun, Yoshitaka Tateyama, Rémy Pawlak, Ernst Meyer, Shohei Saito & Atsuhiro Osuka. "On-Surface Synthesis of Porphyrin-Complex Multi-Block Co-Oligomers by Defluorinative Coupling", Angewandte Chemie International Edition, 61, e202114697 (2022)
+Shigeki Kawai, <u>Atsushi Ishikawa</u>, Shin-ichiro Ishida, Takuya Yamakado, Yujing Ma, Kewei Sun, Yoshitaka Tateyama, Rémy Pawlak, Ernst Meyer, Shohei Saito & Atsuhiro Osuka. "On-Surface Synthesis of Porphyrin-Complex Multi-Block Co-Oligomers by Defluorinative Coupling", Angewandte Chemie International Edition, 61, e202114697 (2022)
 
 2021
 
-Yuuki Sugawara, Keigo Kamata, <u>Atsushi Ishikawa</u></u>, Yoshitaka Tateyama & Takeo Yamaguchi, "Efficient Oxygen Evolution Electrocatalysis on CaFe2O4 and Its Reaction Mechanism", ACS Applied Energy Materials, 4(4), 3057–3066 (2021)
+Yuuki Sugawara, Keigo Kamata, <u>Atsushi Ishikawa</u>, Yoshitaka Tateyama & Takeo Yamaguchi, "Efficient Oxygen Evolution Electrocatalysis on CaFe2O4 and Its Reaction Mechanism", ACS Applied Energy Materials, 4(4), 3057–3066 (2021)
 
-<u>Atsushi Ishikawa</u></u> & Yoshitaka Tateyama, "Hybrid Functional Study of H-Abstraction from Methane by Li-Doped, Pristine and Stepped MgO(100) and MgO(110) Surfaces", Catalysis Letters, 151(3), 627–633 (2021)
+<u>Atsushi Ishikawa</u> & Yoshitaka Tateyama, "Hybrid Functional Study of H-Abstraction from Methane by Li-Doped, Pristine and Stepped MgO(100) and MgO(110) Surfaces", Catalysis Letters, 151(3), 627–633 (2021)
 
-<u>Atsushi Ishikawa</u></u> & Yoshitaka Tateyama, "A First-Principles Microkinetics for Homogeneous-Heterogeneous Reactions: Application to Oxidative Coupling of Methane Catalyzed by Magnesium Oxide", ACS Catalysis, 11(5), 2691–2700 (2021)
+<u>Atsushi Ishikawa</u> & Yoshitaka Tateyama, "A First-Principles Microkinetics for Homogeneous-Heterogeneous Reactions: Application to Oxidative Coupling of Methane Catalyzed by Magnesium Oxide", ACS Catalysis, 11(5), 2691–2700 (2021)
 
 Takanori Koitaya, <u>Atsushi Ishikawa</u>, Shinya Yoshimoto & Jun Yoshinobu, "C-H Bond Activation of Methane through Electronic Interaction with Pd(110)", The Journal of Physical Chemistry C, 125(2), 1368–1377 (2021)
 
