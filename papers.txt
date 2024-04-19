@@ -6,7 +6,10 @@ Fumiaki Amano, <u>Atsushi Ishikawa</u>, Hiromasa Sato, Chiho Akamoto, Surya Prat
 
 2023
 
-Arni Bjorn Hoskuldsson, Thang Dang, Yasufumi Sakai, <u>Atsushi Ishikawa</u> & Egill Skulason, "High-Throughput Computational Screening of Doped Transition Metal Oxides as Catalysts for Nitrogen Reduction", Cell Reports Physical Science, 4, 101595 (2023)
+Yasufumi Sakai, Thang Dang, Shigeki Fukuta, Koichi Shirahata, Atsushi Ishikawa, Atsuki Inoue, Hiroshi Kawaguchi, Árni Björn Höskuldsson & Egill Skúlason, "Self-Supervised Learning with Atom Replacement for Catalyst Energy Prediction by Graph Neural Networks", Procedia Computer Science, 222, Pages 458-467 (2023)
+
+
+Árni Björn Höskuldsson, Thang Dang, Yasufumi Sakai, <u>Atsushi Ishikawa</u> & Egill Skúlason, "High-Throughput Computational Screening of Doped Transition Metal Oxides as Catalysts for Nitrogen Reduction", Cell Reports Physical Science, 4, 101595 (2023)
 
 Aoi Matsuda, Kazuhiko Obara, <u>Atsushi Ishikawa</u>, Meng-Hsuan Tsai, Chia-Hsin Wang, Yu-Chuan Lin, Michikazu Hara & Keigo Kamata, "Bismuth Phosphate Nanoparticle Catalyst for Direct Oxidation of Methane into Formaldehyde", Catalysis Science & Technology, 13, 5180-5189 (2023)
 
