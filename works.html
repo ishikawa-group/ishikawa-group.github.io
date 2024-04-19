@@ -77,9 +77,10 @@
               aria-controls="pills-home"
               aria-selected="true"
             >
-            査読つき論文
+            査読付論文
             </button>
           </li>
+
           <li role="presentation" id="tab2" onClick="SelectTab(this)">
             <button
               class="nav-link"
@@ -94,6 +95,22 @@
             国際学会プロシーディングス
             </button>
           </li>
+
+          <li role="presentation" id="tab3" onClick="SelectTab(this)">
+            <button
+              class="nav-link"
+              style="color:darkslategray"
+              data-bs-toggle="pill"
+              data-bs-target="#pills-profile"
+              type="button"
+              role="tab"
+              aria-controls="pills-profile"
+              aria-selected="false"
+            >
+            その他
+            </button>
+          </li>
+
         </ul>
 
         <div id="tab1-container">
@@ -161,6 +178,40 @@
             </div>
           </div>
         </div>
+
+        <div id="tab3-container" style="display: none;">
+            <div class="card">
+              <div class="card-body">
+                <ul class="card-text">
+                  <ol id="others" reversed style="font-weight: bold;">
+                    <script language="JavaScript">
+                      $(function() {
+                        load("others.txt");
+                        function load (url){
+                          $.get(url, function(data){
+                            data = data.replace(/^\d{1,2}(\|*)$/gm,"");
+                            data = data.split(/[\r\n]+/);
+                            //data = data.filter(Boolean);
+                            //var title = new Object();
+                            for(let i=0; i<data.length-1; i++) {
+                              let paperlist = document.getElementById('others');
+                              if (data[i].startsWith("20")) {
+                                paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                              }
+                              else {
+                                paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                              }
+                            }
+                          })
+                        }
+                      });
+                    </script>
+                  </ol>
+                </ul>
+              </div>
+            </div>
+          </div>
+
     </section>
 
     <!-- Footer-->
