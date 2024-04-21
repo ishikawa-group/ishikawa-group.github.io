@@ -125,15 +125,16 @@
                         $.get(url, function(data){
                           data = data.replace(/^\d{1,2}(\|*)$/gm,"");
                           data = data.split(/[\r\n]+/);
-                          //data = data.filter(Boolean);
-                          //var title = new Object();
                           for(let i=0; i<data.length-1; i++) {
-                            let paperlist = document.getElementById('papers');
+                            let list = document.getElementById('papers');
                             if (data[i].startsWith("20")) {
-                              paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                              list.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                            }
+                            else if (data[i].startsWith("//")) {
+                              ; // comment out line
                             }
                             else {
-                              paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                              list.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
                             }
                           }
                         })
@@ -158,15 +159,13 @@
                         $.get(url, function(data){
                           data = data.replace(/^\d{1,2}(\|*)$/gm,"");
                           data = data.split(/[\r\n]+/);
-                          //data = data.filter(Boolean);
-                          //var title = new Object();
                           for(let i=0; i<data.length-1; i++) {
-                            let paperlist = document.getElementById('conferences');
+                            let list = document.getElementById('conferences');
                             if (data[i].startsWith("20")) {
-                              paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                              list.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
                             }
                             else {
-                              paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                              list.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
                             }
                           }
                         })
@@ -191,15 +190,13 @@
                           $.get(url, function(data){
                             data = data.replace(/^\d{1,2}(\|*)$/gm,"");
                             data = data.split(/[\r\n]+/);
-                            //data = data.filter(Boolean);
-                            //var title = new Object();
                             for(let i=0; i<data.length-1; i++) {
-                              let paperlist = document.getElementById('others');
+                              let list = document.getElementById('others');
                               if (data[i].startsWith("20")) {
-                                paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
+                                list.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
                               }
                               else {
-                                paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
+                                list.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
                               }
                             }
                           })
