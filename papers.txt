@@ -1,6 +1,10 @@
 2024
 
-// Ishikawa, COMSOO, in preparation
+// Ishikawa, OCM-DFT-GAN, in preparation
+
+// Hisama, in preparation
+
+// Ishikawa, COMSOL, in preparation
 
 // Morooka, Masuda, Ishikawa, JPC.C, in preparation
 
