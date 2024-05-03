@@ -8,7 +8,7 @@
 
 // Morooka, Masuda, Ishikawa, JPC.C, in preparation
 
-Sun, Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, accepted
+Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, accepted
 
 <u>Atsushi Ishikawa</u>, "Machine-Learning Descriptor Search on the Density of States Profile of Bimetallic Alloy Systems and Comparison with the d-Band Center Theory", Journal of Computational Chemistry, accepted
 
