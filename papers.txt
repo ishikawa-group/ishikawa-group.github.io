@@ -8,9 +8,9 @@
 
 // Morooka, Masuda, Ishikawa, JPC.C, in preparation
 
-// Kewei, Ishikawa, Kawai, ACS Nano, submitted
+Sun, Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, accepted
 
-<u>Atsushi Ishikawa</u>, "Machine-learning descriptor search on the density of states profile of bimetallic alloy systems and comparison with the d-band center theory", Journal of Computational Chemistry, accepted
+<u>Atsushi Ishikawa</u>, "Machine-Learning Descriptor Search on the Density of States Profile of Bimetallic Alloy Systems and Comparison with the d-Band Center Theory", Journal of Computational Chemistry, accepted
 
 Fumiaki Amano, <u>Atsushi Ishikawa</u>, Hiromasa Sato, Chiho Akamoto, Surya Pratap Singh, Seiji Yamazoe & Toshiki Sugimoto, "Facilitating Methane Conversion and Hydrogen Evolution on Platinized Gallium Oxide Photocatalyst through Liquid-like Water Nanofilm Formation", Catalysis Today, 426, 15, 114375 (2024)
 
