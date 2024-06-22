@@ -4,7 +4,9 @@
 
 // Ishikawa, COMSOL, in preparation
 
-// Hisama, in preparation
+// Hisama, submitted
+
+// Kawai, JPC.L, in revision
 
 // Morooka, Masuda, Ishikawa, JPC.C, submitted
 
