@@ -1,14 +1,16 @@
 2024
 
-// Ishikawa, OCM-DFT-GAN, in preparation
+// -- Ishikawa, OCM-DFT-GAN, in preparation
 
-// Ishikawa, COMSOL, in preparation
+// -- Ishikawa, COMSOL, in preparation
 
-// Hisama, submitted
+// Nakamura, in preparation
+
+// Hisama, in revision
 
 // Kawai, JPC.L, in revision
 
-// Morooka, Masuda, Ishikawa, JPC.C, submitted
+// Morooka, Masuda, Ishikawa, JPC.C, in revision
 
 Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, accepted
 
