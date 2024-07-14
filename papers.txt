@@ -8,7 +8,9 @@
 
 // Hisama, in revision
 
-// Kawai, JPC.L, in revision
+// Kawai (nano graphene spin), XXX, in preparation
+
+// Kawai (self assembly), JPC.L, in revision
 
 // Morooka, Masuda, Ishikawa, JPC.C, in revision
 
