@@ -10,13 +10,13 @@
 
 // Kawai (nano graphene spin), XXX, in preparation
 
-// Kawai (self assembly), JPC.L, in revision
-
 // Morooka, Masuda, Ishikawa, JPC.C, in revision
 
-Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, accepted
+Donglin Li, Sota Seki, <u>Atsushi Ishikawa</u>, Kenichiro Omoto, Kazuma Yasuhara, Gwénaël Rapenne, Shigeki Kawai, "Procrystalline Self-Assembly of Desymmetrized Pentaphenylcyclopentadiene", Journal of Physical Chemistry Letters, accepted
 
-<u>Atsushi Ishikawa</u>, "Machine-Learning Descriptor Search on the Density of States Profile of Bimetallic Alloy Systems and Comparison with the d-Band Center Theory", Journal of Computational Chemistry, accepted
+Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, 18, 21, 13551–13559 (2024)
+
+<u>Atsushi Ishikawa</u>, "Machine-Learning Descriptor Search on the Density of States Profile of Bimetallic Alloy Systems and Comparison with the d-Band Center Theory", Journal of Computational Chemistry, 45, 19, 1682-1689 (2024)
 
 Fumiaki Amano, <u>Atsushi Ishikawa</u>, Hiromasa Sato, Chiho Akamoto, Surya Pratap Singh, Seiji Yamazoe & Toshiki Sugimoto, "Facilitating Methane Conversion and Hydrogen Evolution on Platinized Gallium Oxide Photocatalyst through Liquid-like Water Nanofilm Formation", Catalysis Today, 426, 15, 114375 (2024)
 
