@@ -12,7 +12,7 @@
 
 // Morooka, Masuda, Ishikawa, JPC.C, in revision
 
-Donglin Li, Sota Seki, <u>Atsushi Ishikawa</u>, Kenichiro Omoto, Kazuma Yasuhara, Gwénaël Rapenne, Shigeki Kawai, "Procrystalline Self-Assembly of Desymmetrized Pentaphenylcyclopentadiene", Journal of Physical Chemistry Letters, accepted
+Donglin Li, Sota Seki, <u>Atsushi Ishikawa</u>, Kenichiro Omoto, Kazuma Yasuhara, Gwénaël Rapenne & Shigeki Kawai, "Procrystalline Self-Assembly of Desymmetrized Pentaphenylcyclopentadiene", Journal of Physical Chemistry Letters, accepted
 
 Kewei Sun, <u>Atsushi Ishikawa</u>, Ryota Itaya, Yuichiro Toichi, Takuya Yamakado, Atsuhiro Osuka, Takayuki Tanaka, Kazuyuki Sakamoto & Shigeki Kawai, "On-Surface Synthesis of Polyene Linked Porphyrin Cooligomer", ACS Nano, 18, 21, 13551–13559 (2024)
 
