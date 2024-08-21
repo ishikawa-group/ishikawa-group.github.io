@@ -6,11 +6,11 @@
 
 // Nakamura, in preparation
 
-// Hisama, in revision
-
 // Kawai (nano graphene spin), XXX, in preparation
 
-// Morooka, Masuda, Ishikawa, JPC.C, in revision
+// Hisama, in revision
+
+// Morooka, Masuda, Ishikawa, JPC.C, submitted revision
 
 Donglin Li, Sota Seki, <u>Atsushi Ishikawa</u>, Kenichiro Omoto, Kazuma Yasuhara, Gwénaël Rapenne & Shigeki Kawai, "Procrystalline Self-Assembly of Desymmetrized Pentaphenylcyclopentadiene", Journal of Physical Chemistry Letters, accepted
 
