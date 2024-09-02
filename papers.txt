@@ -1,12 +1,12 @@
 2024
 
-// -- Ishikawa, OCM-DFT-GAN, in preparation
+// -- Ishikawa, OER-DFT-GAN, in preparation
 
 // -- Ishikawa, COMSOL, in preparation
 
-// Nakamura, in preparation
-
 // Kawai (nano graphene spin), XXX, in preparation
+
+// Nakamura, in preparation
 
 // Hisama, in revision
 
