@@ -10,7 +10,7 @@
 
 // Hisama, in revision
 
-Tetsuro Morooka, Tamao Shishido, Ruttala Devivaraprasad, Ganesan Elumalai, Makoto Aoki, Tetsuroh Shirasawa, Takuya Nakanishi, <u>Atsushi Ishikawa</u>, Toshihiro Kondo, and Takuya Masuda, "Potential-Dependent and Face Orientation-Dependent Electrochemical Oxidative Desorption Behavior of Sulfur Species Adsorbed on Platinum Single Crystal Surfaces", Journal of Physical Chemistry C, accepted
+Tetsuro Morooka, Tamao Shishido, Ruttala Devivaraprasad, Ganesan Elumalai, Makoto Aoki, Tetsuroh Shirasawa, Takuya Nakanishi, <u>Atsushi Ishikawa</u>, Toshihiro Kondo & Takuya Masuda, "Potential-Dependent and Face Orientation-Dependent Electrochemical Oxidative Desorption Behavior of Sulfur Species Adsorbed on Platinum Single Crystal Surfaces", Journal of Physical Chemistry C, accepted
 
 Donglin Li, Sota Seki, <u>Atsushi Ishikawa</u>, Kenichiro Omoto, Kazuma Yasuhara, Gwénaël Rapenne & Shigeki Kawai, "Procrystalline Self-Assembly of Desymmetrized Pentaphenylcyclopentadiene", Journal of Physical Chemistry Letters, accepted
 
