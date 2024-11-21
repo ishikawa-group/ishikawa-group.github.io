@@ -1,12 +1,18 @@
+// 2025
+
+// Nakamura, OCM-perovskite-computation, to be written
+
+// Wakamiya, ORR-DFT-GAN, to be written
+
+// Yang, NNP on proton diffusion, to be written
+
+// Ishikawa, COMSOL, in preparation
+
+// Kawai, nanographene spin, in preparation
+
+// Nakamura, OCM-experiment, submitted
+
 2024
-
-// -- Ishikawa, OER-DFT-GAN, in preparation
-
-// -- Ishikawa, COMSOL, in preparation
-
-// Kawai (nano graphene spin), XXX, in preparation
-
-// Nakamura, in preparation
 
 Kaoru Hisama, <u>Atsushi Ishikawa</u>, Susan Menez Aspera, & Michihisa Koyama, "Theoretical Catalyst Screening of Multielement Alloy Catalysts for Ammonia Synthesis Using Machine Learning Potential and Generative Artificial Intelligence", Journal of Physical Chemistry C, accepted
 
