@@ -1,7 +1,5 @@
 // 2025
 
-// Nakamura, OCM-perovskite-computation, to be written
-
 // Wakamiya, ORR-DFT-GAN, to be written
 
 // Yang, NNP on proton diffusion, to be written
