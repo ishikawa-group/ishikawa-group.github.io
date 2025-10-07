@@ -36,7 +36,9 @@
   </head>
 
   <body id="page-top">
+
     <!-- Navigation-->
+
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand" href="index.html"><img src="../assets/img/logo.svg" alt="..." /></a>
@@ -59,46 +61,13 @@
     </nav>
 
     <!-- Works -->
+
     <section class="page-section" id="about">
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">List of Publications</h2>
         </div>
 
-        <ul class="nav nav-tabs" id="nav-tabs" role="tablist">
-          <li role="presentation" id="tab1" onClick="SelectTab(this)" class="active">
-            <button
-              class="nav-link active"
-              style="color:darkslategray"
-              data-bs-toggle="pill"
-              data-bs-target="#pills-home"
-              type="button"
-              role="tab"
-              aria-controls="pills-home"
-              aria-selected="true"
-            >
-            Papers
-            </button>
-          </li>
-          <li role="presentation" id="tab2" onClick="SelectTab(this)">
-            <button
-              class="nav-link"
-              style="color:darkslategray"
-              data-bs-toggle="pill"
-              data-bs-target="#pills-profile"
-              type="button"
-              role="tab"
-              aria-controls="pills-profile"
-              aria-selected="false"
-            >
-            Conference Proceedings
-            </button>
-          </li>
-        </ul>
-
-        <div id="tab1-container">
-          <div class="card">
-            <div class="card-body">
               <ul class="card-text">
                 <ol id="papers" reversed style="font-weight: bold;">
                   <script language="JavaScript">
@@ -127,43 +96,9 @@
                     });
                   </script>
                 </ol>
+                <br><br>* Peer-reviewed journal papers and conference papers are included.
               </ul>
-            </div>
-          </div>
-        </div>
-
-        <div id="tab2-container" style="display: none;">
-          <div class="card">
-            <div class="card-body">
-              <ul class="card-text">
-                <ol id="conferences" reversed style="font-weight: bold;">
-                  <script language="JavaScript">
-                    $(function() {
-                      load("../conferences.txt");
-                      function load (url){
-                        $.get(url, function(data){
-                          data = data.replace(/^\d{1,2}(\|*)$/gm,"");
-                          data = data.split(/[\r\n]+/);
-                          //data = data.filter(Boolean);
-                          //var title = new Object();
-                          for(let i=0; i<data.length-1; i++) {
-                            let paperlist = document.getElementById('conferences');
-                            if (data[i].startsWith("20")) {
-                              paperlist.insertAdjacentHTML('beforeend', '<p style="margin-left: -3rem; margin-top: 1rem; margin-bottom: 1rem;">'+data[i]+"</p>");
-                            }
-                            else {
-                              paperlist.insertAdjacentHTML('beforeend', '<li style="list-style-position: inside; margin-left: -2em;"><span class="list">'+data[i]+'<br></span>');
-                            }
-                          }
-                        })
-                      }
-                    });
-                  </script>
-                </ol>
-              </ul>
-            </div>
-          </div>
-        </div>
+       </div>
     </section>
 
         <!-- Footer-->

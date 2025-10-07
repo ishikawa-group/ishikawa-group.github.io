@@ -1,18 +1,12 @@
-// 2025
+2025
 
-// Wakamiya, ORR-DFT-GAN, to be written
-
-// Yang, NNP on proton diffusion, to be written
-
-// Ishikawa, COMSOL, in preparation
-
-// Kawai, nanographene spin, in preparation
-
-// Nakamura, OCM-experiment, submitted
+Yusuke Majima, Yosuke Oyama, Eiji Ohta, <u>Long Yang</u>, <u>Atsushi Ishikawa</u>, Junichiro Otomo & Yasufumi Sakai, "Self-Supervised Learning by Element Shuffling for Material Property Prediction", Procedia Computer Science, 264, 232-241 (2025) <a href="https://doi.org/10.1016/j.procs.2025.07.134">10.1016/j.procs.2025.07.134</a>
 
 2024
 
 Kaoru Hisama, <u>Atsushi Ishikawa</u>, Susan Menez Aspera, & Michihisa Koyama, "Theoretical Catalyst Screening of Multielement Alloy Catalysts for Ammonia Synthesis Using Machine Learning Potential and Generative Artificial Intelligence", Journal of Physical Chemistry C, 128, 44, 18750–18758 (2024)
+
+Yasufumi Sakai, Naoki Matsumura, Atsuki Inoue, Hiroshi Kawaguchi, Dang Thang, <u>Atsushi Ishikawa</u>, Árni Björn Höskuldsson & Egill Skúlason, "Active Learning for Graph Neural Networks Training in Catalyst Energy Prediction", IJCNN 2024
 
 Tetsuro Morooka, Tamao Shishido, Ruttala Devivaraprasad, Ganesan Elumalai, Makoto Aoki, Tetsuroh Shirasawa, Takuya Nakanishi, <u>Atsushi Ishikawa</u>, Toshihiro Kondo & Takuya Masuda, "Potential-Dependent and Face Orientation-Dependent Electrochemical Oxidative Desorption Behavior of Sulfur Species Adsorbed on Platinum Single Crystal Surfaces", Journal of Physical Chemistry C, 128, 39, 16426–16436 (2024)
 
@@ -28,6 +22,7 @@ Fumiaki Amano, <u>Atsushi Ishikawa</u>, Hiromasa Sato, Chiho Akamoto, Surya Prat
 
 Yasufumi Sakai, Thang Dang, Shigeki Fukuta, Koichi Shirahata, Atsushi Ishikawa, Atsuki Inoue, Hiroshi Kawaguchi, Árni Björn Höskuldsson & Egill Skúlason, "Self-Supervised Learning with Atom Replacement for Catalyst Energy Prediction by Graph Neural Networks", Procedia Computer Science, 222, 458-467 (2023)
 
+Yosuke Oyama, Takumi Honda, <u>Atsushi Ishikawa</u> & Koichi Shirahata, "Accelerating Hybrid DFT Simulations Using Performance Modeling on Supercomputers", CCGRID 2023 (2023)
 
 Árni Björn Höskuldsson, Thang Dang, Yasufumi Sakai, <u>Atsushi Ishikawa</u> & Egill Skúlason, "High-Throughput Computational Screening of Doped Transition Metal Oxides as Catalysts for Nitrogen Reduction", Cell Reports Physical Science, 4, 101595 (2023)
 
@@ -124,6 +119,8 @@ Yuta Takada, Masaki Okoshi, Minoru Hoshino, <u>Atsushi Ishikawa</u>, Makoto Ishi
 <u>Atsushi Ishikawa</u> & Hiroshi Nakatsuji, "XPS of Oxygen Atoms on Ag(111) and Ag(110) Surfaces: Accurate Study with SAC/SAC-CI Combined with Dipped Adcluster Model", Journal of Computational Chemistry, 34(21), 1828–1834 (2013)
 
 2012
+
+Hiroyuki Nakashima, <u>Atsushi Ishikawa</u>, Yusaku I. Kurokawa & Hiroshi Nakatsuji, "Abstract: Solving the Schrödinger and Dirac Equations of Atoms and Molecules with Massively Parallel Computer", In 2012 SC Companion: High Performance Computing, Networking Storage and Analysis. IEEE 2012 (2012)
 
 <u>Atsushi Ishikawa</u>, Yudai Tanimura, Yoshihide Nakao, Hirofumi Sato & Shigeyoshi Sakaki, "Complicated Electronic Process of C-C σ-Bond Activation of Cyclopropene by Ruthenium and Iridium Complexes: Theoretical Study", Organometallics, 31(23), 8189–8199 (2012)
 
