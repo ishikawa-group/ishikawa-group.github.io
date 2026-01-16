@@ -1,3 +1,7 @@
+2026
+
+Kewei Sun, Xiushang Xi, <u>Atsushi Ishikawa</u>, Akimitsu Narita & Shigeki Kawai, "On-Surface Synthesis of Nonbenzenoid Nanographenes through Skeletal Rearrangement Reactions on Au(111)", Science and Technology of Advanced Materials (STAM), accepted.
+
 2025
 
 Yusuke Majima, Yosuke Oyama, Eiji Ohta, <u>Long Yang</u>, <u>Atsushi Ishikawa</u>, Junichiro Otomo & Yasufumi Sakai, "Self-Supervised Learning by Element Shuffling for Material Property Prediction", Procedia Computer Science, 264, 232-241 (2025) <a href="https://doi.org/10.1016/j.procs.2025.07.134">10.1016/j.procs.2025.07.134</a>
