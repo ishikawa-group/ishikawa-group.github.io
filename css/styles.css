@@ -12259,6 +12259,12 @@ p.justify {
   loading: lazy;
 }
 
+.activity-images.activity-images-uniform img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+}
+
 .activity-note {
   font-size: 0.75em;
   color: #999;
