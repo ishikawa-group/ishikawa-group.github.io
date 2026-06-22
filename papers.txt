@@ -1,8 +1,10 @@
 2026
 
-<u>Yosuke Nakamura</u>, Shuntaro Watanabe, Hisashi Kozuka & <u>Atsushi Ishikawa</u>, "Low-Temperature Oxidative Coupling of Methane with,Proton-Conducting Ceramics: A Study on Acceptor-Doped BaZrO3", Journal of Catalysis, accepted.
+<u>Maxim Shishkin</u> & <u>Atsushi Ishikawa</u>, "The role of Ni in stabilizing the BaZrO3 surfaces of Ni/BaZrO3 interfaces: Density Functional Theory analysis", Langmuir, accepted
 
-<u>Taishiro Wakamiya</u> & <u>Atsushi Ishikawa</u>, "Artificial Catalyst Generation for the Oxygen Reduction Reaction using Conditional Variational Autoencoder and Atomistic Calculations", npj Computational Materials, accepted.
+<u>Yosuke Nakamura</u>, Shuntaro Watanabe, Hisashi Kozuka & <u>Atsushi Ishikawa</u>, "Low-Temperature Oxidative Coupling of Methane with,Proton-Conducting Ceramics: A Study on Acceptor-Doped BaZrO3", Journal of Catalysis, 459, 116876 (2026) <a href="https://doi.org/10.1016/j.jcat.2026.116876">10.1016/j.jcat.2026.116876</a>
+
+<u>Taishiro Wakamiya</u> & <u>Atsushi Ishikawa</u>, "Artificial Catalyst Generation for the Oxygen Reduction Reaction using Conditional Variational Autoencoder and Atomistic Calculations", npj Computational Materials, 12, 206 (2026) <a href="https://doi.org/10.1038/s41524-026-02075-0">10.1038/s41524-026-02075-0</a>
 
 Kewei Sun, Xiushang Xi, <u>Atsushi Ishikawa</u>, Akimitsu Narita & Shigeki Kawai, "On-Surface Synthesis of Nonbenzenoid Nanographenes through Skeletal Rearrangement Reactions on Au(111)", Science and Technology of Advanced Materials (STAM), <a href="https://doi.org/10.1080/14686996.2026.2619342">10.1080/14686996.2026.2619342</a>
 
